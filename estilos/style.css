@@ -152,6 +152,10 @@ div.botao a:hover {
         width: auto;
     }
 
+    div.botao a {
+        width: 80%;
+    }
+
     .apresentacao_imagem {
         width: 80%;
     }
